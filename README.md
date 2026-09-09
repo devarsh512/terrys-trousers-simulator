@@ -2,7 +2,7 @@
 
 An end-to-end e-commerce data analytics project and interactive strategy modeling tool. This project analyzes unit economics and customer return dynamics for **Terry's Trousers**, identifies key revenue leakage drivers, and provides executive stakeholders with an interactive scenario simulator for strategic decision-making.
 
-🔗 **Live Interactive Simulator:** [https://<your-github-username>.github.io/terrys-trousers-simulator/](https://<your-github-username>.github.io/terrys-trousers-simulator/)
+🔗 **Live Interactive Simulator:** [https://devarsh512.github.io/terrys-trousers-simulator/](https://devarsh512.github.io/terrys-trousers-simulator/)
 
 ---
 
